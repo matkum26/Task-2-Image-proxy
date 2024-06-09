@@ -1,7 +1,7 @@
 #ENCRYPT
 
 try:
-python
+	
 	path = input(r'Enter path of Image : ')
 	key = int(input('Enter Key for encryption of Image : '))
 		
